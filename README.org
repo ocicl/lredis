@@ -1,0 +1,10 @@
+* lredis
+
+Lisp Redis bindings
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/lredis   |
+| commit  | d3750ee  |
+| systems | lredis |
+|---------+-------------------------------------------|
+
